@@ -29,6 +29,7 @@ This [tutorial](https://realpython.com/openpyxl-excel-spreadsheets-python/#writi
 Create a “turtle race” game. When the player hits space, the turtles start running and then keep track of which one won in a text file for scores.
 
 **Turtle Race Game**
+
 ![](images/turtle_race_game.png)
 
 **Sources:**
