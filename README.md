@@ -24,3 +24,10 @@ Create an application that tracks your expenses through the command prompt, wher
 **Sources**
 
 This [tutorial](https://realpython.com/openpyxl-excel-spreadsheets-python/#writing-excel-spreadsheets-with-openpyxl) from RealPython explains how to work with Excel spreadsheets using the package openpyxl.
+
+### 4. Turtle module
+Create a “turtle race” game. When the player hits space, the turtles start running and then keep track of which one won in a text file for scores.
+
+**Sources**
+
+I used the [documentation](https://docs.python.org/3/library/turtle.html) of the module to write the code, but you can also check out this [playlist](https://www.youtube.com/watch?v=p7CiFhiTdvY&list=PLzMcBGfZo4-kfGgYZb9dwW3VhoBRG0h9c) from the channel Tech With Tim to learn how to use it.
