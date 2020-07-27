@@ -1,4 +1,4 @@
-# more-beginner-projects
+# More Beginner Projects
 More 5 Beginner Python Projects
 ## Table of contents
 * [Introduction](#introduction)
