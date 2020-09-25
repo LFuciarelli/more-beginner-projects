@@ -35,3 +35,7 @@ Create a “turtle race” game. When the player hits space, the turtles start r
 **Sources:**
 
 I used the [documentation](https://docs.python.org/3/library/turtle.html) of the module to write the code, but you can also check out this [playlist](https://www.youtube.com/watch?v=p7CiFhiTdvY&list=PLzMcBGfZo4-kfGgYZb9dwW3VhoBRG0h9c) from the channel Tech With Tim to learn how to use it.
+
+## License
+
+This project is licensed under the MIT License - open the [LICENSE.md](https://github.com/LFuciarelli/more-beginner-projects/blob/master/LICENSE.md) file for more details.
