@@ -5,7 +5,7 @@ More 5 Beginner Python Projects
 * [Projects](#projects)
 * [License](#license)
 ## Introduction
-After creating a repository with [five beginner projects for someone learning Python]() during the COVID-19 quarantine, I decided to do more five projects. This time the projects ideas came from a [video](https://www.youtube.com/watch?v=1HHRWg--Ce4) of the channel Tech With Tim.
+After creating a repository with [five beginner projects for someone learning Python](https://github.com/LFuciarelli/beginner-projects) during the COVID-19 quarantine, I decided to do more five projects. This time the projects ideas came from a [video](https://www.youtube.com/watch?v=1HHRWg--Ce4) of the channel Tech With Tim.
 
 `Disclaimer:` I highly recommend you to try to solve these projects by yourself before looking at the solutions. Practice is very important in programming.
 ## Projects
