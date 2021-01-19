@@ -42,6 +42,7 @@ Create a tic-tac-toe game. The player can play against the computer, which can m
 I created two versions: one in which two human players play against each other and another in which the human player plays against the computer, which makes logical moves using the minimax algorithm.
 
 **Sources:**
+
 The website "never stop building" has an amazing [explanation](https://www.neverstopbuilding.com/blog/minimax) of the minimax algorithm. In addition to it, I used this [tutorial](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/) from GeeksforGeeks to implement my version of the minimax algorithm.
 
 ## License
