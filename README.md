@@ -18,6 +18,9 @@ This [tutorial](https://www.datacamp.com/community/tutorials/pickle-python-tutor
 
 This [video tutorial](https://www.youtube.com/watch?v=lFRMdGfo_XA) from the channel NeuralNine shows how to create a SQLite database using Python.
 
+### 2. Card game
+Implement a card game. I programmed Blackjack a while ago for my first 5 beginner projects so here’s the [link](https://github.com/LFuciarelli/beginner-projects/tree/master/project_4) to the code.
+
 ### 3. Excel module
 Create an application that tracks your expenses through the command prompt, where the person type what the expense was, how much it costed and what day it was on and add that information that to an excel spreadsheet.
 
